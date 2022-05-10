@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "mongo-gui": "^0.0.17",
+    "mongodb": "^4.2.2",
+    "multer": "^1.4.4",
+    "socket.io": "^4.4.1"
+  }
+}
